@@ -146,7 +146,7 @@
     "clear_web_cache_warning": "清除網頁快取將會將您登出並重設設定，但這通常有助於解決權限相關的問題。\n\n您確定要繼續嗎？"
   },
   "dorion_rpc": {
-    "title": "Rich Presence (豐富狀態)",
+    "title": "Rich Presence",
     "plugin": "插件",
     "install_shelterpc": "安裝 shelteRPC 插件",
     "already_installed": "您已經安裝 shelteRPC 了！",
