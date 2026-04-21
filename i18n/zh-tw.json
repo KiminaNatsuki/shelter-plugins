@@ -46,7 +46,7 @@
     "client_type": "客戶端類型",
     "client_type_default": "預設",
     "client_type_ptb": "PTB (測試版)",
-    "client_type_canary": "Canary (金絲雀版)",
+    "client_type_canary": "Canary 測試版",
     "window": "視窗",
     "zoom_level": "縮放層級",
     "sys_tray": "最小化至系統匣",
