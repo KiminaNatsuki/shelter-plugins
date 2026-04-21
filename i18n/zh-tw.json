@@ -171,7 +171,7 @@
     "title": "設定檔",
     "create_profile": "建立設定檔",
     "select_profile": "選擇設定檔…",
-    "profile_name_placeholder": "輸入新設定檔的名稱...",
+    "profile_name_placeholder": "輸入新設定檔的名稱…",
     "save_and_restart": "儲存並重新啟動",
     "delete_profile": "刪除選取的設定檔"
   },
