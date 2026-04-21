@@ -45,7 +45,7 @@
     "restart_warning": "部分變更需要重新啟動後才會生效。",
     "client_type": "客戶端類型",
     "client_type_default": "預設",
-    "client_type_ptb": "PTB (測試版)",
+    "client_type_ptb": "PTB 測試版",
     "client_type_canary": "Canary 測試版",
     "window": "視窗",
     "zoom_level": "縮放層級",
