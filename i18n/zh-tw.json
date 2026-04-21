@@ -193,7 +193,7 @@
   },
   "dorion_warning_card": {
     "restart_required": "需要重新啟動",
-    "restart_message": "一或多個設定已變更，需要重新啟動後才會生效。",
+    "restart_message": "部分設定變更需要重新啟動才會生效。",
     "restart_now": "立即重新啟動",
     "restart_later": "稍後重新啟動"
   }
