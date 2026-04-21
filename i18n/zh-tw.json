@@ -69,7 +69,7 @@
   },
   "dorion_plugins": {
     "title": "客戶端模組與插件",
-    "client_mods": "客戶端模組 (Client Mods)",
+    "client_mods": "客戶端模組",
     "plugins": "插件 (Plugins)",
     "open_plugins_folder": "開啟插件資料夾",
     "open_extensions_folder": "開啟擴充功能資料夾"
